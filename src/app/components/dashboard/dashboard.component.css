@@ -1,0 +1,23 @@
+.imgWrapper4 {
+    background:  #613d94;
+
+    font-size: 0;
+    text-align: center;
+    
+}
+.imgWrapper4 .imgResponsiva{
+    display: inline-block;
+    font-size: inherit;
+}
+.imgWrapper4 .imgResponsiva {width: 10%; max-width: 345px;}
+
+.imgResponsiva img {
+    height: auto;
+    width: 100%;
+}
+h4{
+    color: #ffffff;
+}
+h5{
+    color: #ffffff;
+}
